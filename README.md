@@ -19,7 +19,7 @@ Proje, backend ve frontend olarak iki ana bölümden oluşur. Her birinin ayrı 
 Projeyi yerel makinenize klonlayın ve Go modüllerini indirin:
 
 # Projeyi klonlayın
-git clone [BURADAKİ_GITHUB_REPO_URL] 
+git clone https://github.com/ismailoksuz/go-chat-websocket
 cd go-chat-websocket
 
 # Go backend bağımlılıklarını indirin
